@@ -21,23 +21,16 @@ StudyBuddy is an innovative app designed to help students prepare for their lect
 
 Here are some snapshots of StudyBuddy:
 
-- **Home Page**  
-  ![StudyBuddy Home](./public/studybuddy-1.jpeg)
+![StudyBuddy Home](./public/studybuddy-1.jpeg)
 
-- **Upload Document Page**  
-  ![Upload Document](./public/studybuddy-2.jpeg)
+![Upload Document](./public/studybuddy-2.jpeg)
 
-- **Lecture Summary View**  
-  ![Lecture Summary](./public/studybuddy-3.jpeg)
+![Lecture Summary](./public/studybuddy-3.jpeg)
 
-- **Flashcards Page**  
-  ![Flashcards](./public/studybuddy-4.jpeg)
+![Flashcards](./public/studybuddy-4.jpeg)
 
-- **Scoreboard Page**  
-  ![Scoreboard](./public/studybuddy-5.jpeg)
+![Scoreboard](./public/studybuddy-5.jpeg)
 
-- **Settings Page**  
-  ![Settings](./public/studybuddy-6.jpeg)
+![Settings](./public/studybuddy-6.jpeg)
 
-- **Help Page**  
-  ![Help](./public/studybuddy-7.jpeg)
+![Help](./public/studybuddy-7.jpeg)
